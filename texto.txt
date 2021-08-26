@@ -1,1 +1,1 @@
-Este es un texto de inicio
+Este es un texto de inicio en curso frontend
