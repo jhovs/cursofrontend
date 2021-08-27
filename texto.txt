@@ -1,1 +1,1 @@
-Este es un texto de inicio en curso frontend
+Este es un texto de inicio en curso frontend para ejemplo de uso en dream
